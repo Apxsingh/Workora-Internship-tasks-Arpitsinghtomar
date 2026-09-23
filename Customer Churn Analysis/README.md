@@ -11,12 +11,31 @@ Calculate churn rate, Customer Lifetime Value (CLV), and Monthly Recurring Reven
 ```
 customer-churn-analysis/
 │
-├── data/
-│   └── customer_churn_sample.csv        # Raw customer dataset
+├── chrun_env        # Python Virtual Enviroment
 │
-├── Customer_Churn_Analysis.ipynb        # Main analysis notebook
-├── Customer_Churn_Analysis_Report.pdf   # Final analytics report (submission deliverable)
-└── README.md
+├── data/
+│   └── customer_churn_sample (1).csv        # Raw customer dataset
+│
+├── images 
+│   └── Churn_rate_by_contract_type.png
+│   └── Churn_rate_by_customer_tenure_months.png
+│   └── Churn_rate_by_payment_methods.png
+│   └── Correlation_Heatmap.png
+│   └── Customer_churn_distribution.png
+│   └── Monthly_charges_by_monthly_status.png
+│   └── Tenure_months_distribution_by_churn_status.png
+│
+├── notebook        
+│   └── Customer_Churn_Analysis.ipynb           # Main analysis notebook
+│
+├── report   # Final analytics report (submission deliverable)
+│   └── Customer_Churn_Analysis_Report.pdf          # Final analytics report (submission deliverable)
+│
+├── .gitignore
+│
+├── README.md
+│
+├── requirements.txt
 ```
 
 ## 🧾 Dataset
