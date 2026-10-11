@@ -169,11 +169,11 @@ Install Python 3.11 or another compatible Python version and Visual Studio Code 
 ### Step 1: Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/Apxsingh/Workora-Internship-tasks-Arpitsinghtomar/tree/main/Web%20Traffic%20Analytics
+
 cd "Web Traffic Analytics"
 ```
 
-Replace the placeholder with your actual GitHub repository URL.
 
 ### Step 2: Create a virtual environment
 
