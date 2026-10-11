@@ -159,11 +159,11 @@ The resulting top three are **potential expansion candidates**, not confirmed un
 ### Step 1: Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/Apxsingh/Workora-Internship-tasks-Arpitsinghtomar/tree/main/Geospatial%20Data%20Analysis
+
 cd "Geospatial Data Analysis"
 ```
 
-Replace `<YOUR_GITHUB_REPOSITORY_URL>` with your actual repository URL.
 
 ### Step 2: Create a virtual environment
 
