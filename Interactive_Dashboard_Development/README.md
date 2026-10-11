@@ -223,7 +223,7 @@ The dashboard provides descriptive analysis. It does not establish causal relati
 After pushing this project to GitHub:
 
 ```bash
-git clone https://github.com/Apxsingh/Workora-Internship-tasks-Arpitsinghtomar/tree/main/Interactive%20Dashboard%20Development
+git clone https://github.com/Apxsingh/Workora-Internship-tasks-Arpitsinghtomar/tree/main/Interactive%20Dashboard%20Development.git
 
 cd "Interactive Dashboard Development"
 ```

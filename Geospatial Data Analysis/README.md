@@ -160,7 +160,7 @@ The resulting top three are **potential expansion candidates**, not confirmed un
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/Apxsingh/Workora-Internship-tasks-Arpitsinghtomar/tree/main/Geospatial%20Data%20Analysis
+git clone https://github.com/Apxsingh/Workora-Internship-tasks-Arpitsinghtomar/tree/main/Geospatial%20Data%20Analysis.git
 
 cd "Geospatial Data Analysis"
 ```

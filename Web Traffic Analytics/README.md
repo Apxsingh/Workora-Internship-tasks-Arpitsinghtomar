@@ -169,7 +169,7 @@ Install Python 3.11 or another compatible Python version and Visual Studio Code 
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/Apxsingh/Workora-Internship-tasks-Arpitsinghtomar/tree/main/Web%20Traffic%20Analytics
+git clone https://github.com/Apxsingh/Workora-Internship-tasks-Arpitsinghtomar/tree/main/Web%20Traffic%20Analytics.git
 
 cd "Web Traffic Analytics"
 ```
