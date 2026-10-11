@@ -44,6 +44,7 @@ Geospatial Data Analysis/
 │      ├── state_market_summary.csv
 │      └── top_3_expansion_regions.csv
 │
+├── .gitignore
 ├── README.md
 └── requirements.txt
 ```
