@@ -141,11 +141,11 @@ Install Python and create or activate the project's virtual environment.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+git clone https://github.com/Apxsingh/Workora-Internship-tasks-Arpitsinghtomar/tree/main/AB%20Testing%20%26%20Hypothesis%20Testing.git
+
 cd "AB Testing & Hypothesis Testing"
 ```
 
-Replace the repository URL with your actual GitHub repository URL.
 
 ### 2. Create and activate a virtual environment (optional)
 
