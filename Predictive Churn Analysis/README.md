@@ -183,11 +183,10 @@ These categories are intended for demonstration and should be validated against 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+git clone https://github.com/Apxsingh/Workora-Internship-tasks-Arpitsinghtomar/tree/main/Predictive%20Churn%20Analysis.git
+
 cd "Predictive Churn Analysis"
 ```
-
-Replace the placeholder repository URL with your actual GitHub repository URL.
 
 ### 2. Create a Virtual Environment
 
