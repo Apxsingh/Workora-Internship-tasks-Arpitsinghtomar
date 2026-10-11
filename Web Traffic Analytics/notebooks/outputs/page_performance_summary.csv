@@ -1,0 +1,9 @@
+PagePath,Sessions,Conversions,BounceRate,AvgDurationSec,AvgPageviews
+/blog/ai-trends,1,0,100.0,30.0,1.0
+/blog/python,1,0,100.0,45.0,1.0
+/contact,1,0,0.0,180.0,3.0
+/courses,1,1,0.0,420.0,8.0
+/courses/data-science,1,1,0.0,310.0,6.0
+/landing,3,2,33.33333333333333,150.0,3.0
+/pricing,1,0,0.0,60.0,2.0
+/register,1,1,0.0,210.0,4.0

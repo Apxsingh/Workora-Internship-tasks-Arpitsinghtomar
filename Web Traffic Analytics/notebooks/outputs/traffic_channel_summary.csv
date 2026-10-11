@@ -1,0 +1,6 @@
+TrafficChannel,Sessions,Conversions,BounceRate,AvgSessionDurationSec,AvgPageviewsPerSession,ConversionRate
+Ads,2,2,0.0,250.0,4.5,100.0
+Direct,3,1,0.0,220.0,4.33,33.33
+Organic,2,2,0.0,227.5,4.5,100.0
+Other,2,0,100.0,22.5,1.0,0.0
+Social,1,0,100.0,45.0,1.0,0.0

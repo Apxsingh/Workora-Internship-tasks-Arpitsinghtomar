@@ -1,0 +1,19 @@
+# Virtual environment
+webtraffic_env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment files
+.env
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db 
