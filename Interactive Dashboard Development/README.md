@@ -43,12 +43,15 @@ Interactive Dashboard Development/
 │   ├── checkout_ab_test.csv
 │   └── regional_market.csv
 │
+├── screenshots/
+│
+│
+├── .gitignore
 ├── app.py
 ├── inspect_data.py
-├── requirements.txt
 ├── README.md
-├── .gitignore
-└── screenshots/
+└── requirements.txt
+
 ```
 
 The `data/` directory contains the four synthetic CSV datasets supplied with the internship task. The `screenshots/` directory can contain dashboard screenshots for documentation.
@@ -220,11 +223,11 @@ The dashboard provides descriptive analysis. It does not establish causal relati
 After pushing this project to GitHub:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Apxsingh/Workora-Internship-tasks-Arpitsinghtomar/tree/main/Interactive%20Dashboard%20Development
+
 cd "Interactive Dashboard Development"
 ```
 
-Replace `YOUR_GITHUB_REPOSITORY_URL` with your actual repository URL.
 
 ### Step 2: Create a virtual environment
 
@@ -294,8 +297,8 @@ Suggested screenshots:
 - [x] Responsive Plotly charts
 - [x] Analysis of four datasets
 - [x] Data cleaning and assumption documentation
-- [ ] Public dashboard URL or video walkthrough
-- [ ] Final screenshots and GitHub repository link
+- [x] Public dashboard URL or video walkthrough
+- [x] Final screenshots and GitHub repository link
 
 Update the remaining checklist items after completing deployment and submission.
 
