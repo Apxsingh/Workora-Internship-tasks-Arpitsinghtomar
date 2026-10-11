@@ -1,0 +1,36 @@
+EXECUTIVE DECISION MEMO
+Checkout A/B Testing Experiment
+
+OBJECTIVE
+Determine whether Variant B changes checkout purchase conversion.
+
+RESULTS
+Control A visitors: 600
+Control A conversions: 57
+Control A conversion rate: 9.50%
+
+Variant B visitors: 600
+Variant B conversions: 71
+Variant B conversion rate: 11.83%
+
+Absolute conversion lift: 2.33%
+Relative conversion lift: 24.56%
+
+Z-test statistic: 1.3092
+Z-test p-value: 0.190456
+Chi-square statistic: 1.7141
+Chi-square p-value: 0.190456
+
+95% confidence interval for conversion lift:
+-1.18% to 5.85%
+
+Cohen's h: 0.0757
+
+RECOMMENDATION
+The experiment has not established a statistically significant difference. Keep Control A for now while reviewing power, costs, and whether additional data or a redesigned experiment is justified.
+
+LIMITATIONS
+The analysis assumes randomized assignment, independent visitors, and
+correctly recorded conversion outcomes. Statistical significance does not
+guarantee profitability. Revenue and implementation costs should also be
+considered before a final rollout.
