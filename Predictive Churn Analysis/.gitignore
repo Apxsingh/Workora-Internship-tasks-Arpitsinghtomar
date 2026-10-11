@@ -1,0 +1,81 @@
+# ==============================
+# Python
+# ==============================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# ==============================
+# Virtual environments
+# ==============================
+PCA_env/
+.venv/
+venv/
+env/
+
+# ==============================
+# Jupyter Notebook
+# ==============================
+.ipynb_checkpoints/
+
+# ==============================
+# IDE and editor
+# ==============================
+.vscode/
+.idea/
+
+# ==============================
+# Environment variables and secrets
+# ==============================
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# ==============================
+# Logs and temporary files
+# ==============================
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# ==============================
+# Python packaging
+# ==============================
+build/
+dist/
+*.egg-info/
+
+# ==============================
+# Test and coverage artifacts
+# ==============================
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ==============================
+# Local model artifacts
+# ==============================
+*.pkl
+*.pickle
+*.pt
+*.pth
+*.onnx
+
+# ==============================
+# Generated project outputs
+# Keep evaluation reports and predictions if you
+# want to submit these deliverables to GitHub.
+# ==============================
+# Uncomment the next line only if you want to
+# exclude all generated output files:
+# notebook/output/
+
+# ==============================
+# Local OS files
+# ==============================
+$RECYCLE.BIN/

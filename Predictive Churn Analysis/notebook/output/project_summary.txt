@@ -1,0 +1,16 @@
+PREDICTIVE CHURN ANALYSIS
+=============================================
+
+Dataset: customer_churn_model_v2.csv
+Total records: 800
+Training records: 640
+Testing records: 160
+Overall churn rate: 41.75%
+
+Best model by ROC-AUC: Logistic Regression
+
+              Model  Accuracy  Precision  Recall  F1 Score  ROC-AUC
+Logistic Regression     0.669      0.583   0.731     0.649    0.681
+      Random Forest     0.637      0.557   0.657     0.603    0.658
+
+Note: Metrics are calculated on the held-out test set.
